@@ -1,4 +1,4 @@
-#CODEBOOK>MD
+#CODEBOOK.MD
 ##Getting and Cleaning Data; Course Project
 The code book describing the variables. 
 
